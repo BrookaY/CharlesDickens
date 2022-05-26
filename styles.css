@@ -1,1 +1,25 @@
-/* Copy and paste your CSS from CodePen into here */
+#img-caption
+{
+  width: 200px;
+}
+
+#image
+{
+  max-width:15%;
+  height: auto;
+  margin:auto;
+  display: block;
+}
+
+#image
+ {
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+#image
+{
+  border-radius:100%;
+}
+
